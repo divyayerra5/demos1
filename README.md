@@ -9,17 +9,37 @@ Demo page
 
 </Title>
 
+<style>
+  #p
+  
+  {
+  
+  color:blue;
+  
+  font-style:italic;
+  
+  }
+  
+  .c
+
+{
+  color:green;
+  
+  }
+  
+  </style>
+
 </Head>
 
 <Body>
 
-<H1>Header1</H1>
+<H1 color:red>Header1</H1>
 
 <img src=demoimage.jpg>
 
-<H2>Header2</H2>
+<H2 id="p">Header2</H2>
 
-<H3>Header3</H3>
+<H3 class="c">Header3</H3>
 
 <H4>Header4</H4>
 
