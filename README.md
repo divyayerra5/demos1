@@ -9,7 +9,8 @@ Demo page
 
 </Title>
 
-<style>
+<style type="text/css">
+  
   #p
   
   {
