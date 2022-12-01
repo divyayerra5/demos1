@@ -17,11 +17,11 @@ Demo page
 
 <img src=demoimage.jpg>
 
-<H1>Header2</H1>
+<H2>Header2</H2>
 
-<H1>Header3</H1>
+<H3>Header3</H3>
 
-<H1>Header4</H1>
+<H4>Header4</H4>
 
 <ahref="demofile.html">
 
